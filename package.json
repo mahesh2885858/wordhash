@@ -10,8 +10,10 @@
     "@types/node": "^12.20.50",
     "@types/react": "^16.14.25",
     "@types/react-dom": "^16.9.15",
+    "nanoid": "^3.3.4",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-icons": "^4.3.1",
     "react-scripts": "5.0.1",
     "typescript": "^4.6.4",
     "web-vitals": "^0.2.4",
@@ -51,5 +53,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24"
   }
 }
